@@ -30,7 +30,7 @@ section ul{
 }
 section ul li{
     list-style-type: none;
-    padding: 0.5rem;
+    padding: 0.4rem;
 }
 main{
     display: flex;
