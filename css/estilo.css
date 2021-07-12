@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0;
+    outline: 0%;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+header{
+    display: flex;
+    align-items: center;
+}
+header picture{
+    height: 20%;
+    border: 0%;
+    margin: 20px;
+}
+header input{
+    margin: 20px;
+}
+section ul{
+    display: flex;
+    flex-direction: row;
+    border: 0.1rem solid #719FE9;
+    border-right: 0;
+    border-left: 0;
+}
+section ul li{
+    list-style-type: none;
+    padding: 0.5rem;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    height: 20%;
+    margin: 5px;
+}
+footer{
+    margin: 5%;
+}
