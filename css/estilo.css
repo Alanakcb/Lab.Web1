@@ -32,12 +32,20 @@ section ul li{
     list-style-type: none;
     padding: 0.4rem;
 }
+section ul li a{
+    padding: 5rem;
+}
 main{
     display: flex;
     flex-direction: row;
-    height: 20%;
-    margin: 5px;
+    height: 10%;
+    margin-top: 1%;
 }
-footer{
-    margin: 5%;
+main div img{
+    height: 80%;
+    margin: 10px;
+    align-content: center;
+}
+main h4{
+    display: inline;
 }
